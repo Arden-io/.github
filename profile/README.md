@@ -1,6 +1,6 @@
 # Arden
 
-Building the infrastructure for tomorrow.
+Building custom infrastructure.
 
 ## Coming Soon
 
